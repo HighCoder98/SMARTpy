@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 from smart import *
-from sys import exit
 
 smart = SMARTManager()
 
